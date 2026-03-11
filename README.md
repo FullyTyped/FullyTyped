@@ -16,6 +16,7 @@ Some notable repositories and contributions:
 ## 💼 Employment History
 - **Adaptive ML**
   - Implemented a Model Checkpointing system in the platform
+  - Cut 3 orders of magnitude in # of DB queries in the platform
 - **Amazon Web Services (AWS)**  
   - AWS/Lambda
     - Wrote [durable functions SDK for Python](https://github.com/aws/aws-durable-execution-sdk-python)
